@@ -1,0 +1,2 @@
+#!/bin/bash
+$ mkdir my_dit | grep chmod 751
