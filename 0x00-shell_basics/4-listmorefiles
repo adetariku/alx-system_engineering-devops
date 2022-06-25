@@ -1,3 +1,6 @@
 #!/bin/bash
 ls -la ~/ \n
+<<<<<<< HEAD
 
+=======
+>>>>>>> cc785efc8be1bb4234fa71f4e25a88a65c5d33eb
