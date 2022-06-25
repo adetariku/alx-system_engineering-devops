@@ -1,7 +1,3 @@
 <<<<<<< HEAD
 #!/bin/bash
 mkdir -p tmp/my_first_directory
-=======
-#!/bin/bash                                                                            
-mkdir -p tmp/my_first_directory 
->>>>>>> fb92204e2b5b40c483abba1dd0e410dc9c0c4da6
