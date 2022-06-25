@@ -1,1 +1,0 @@
-A bash script to dsplay the current working directory
