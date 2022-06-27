@@ -1,2 +1,2 @@
 #!/bin/bash
-tail -n 2 tare | less
+cat /etc/passwd | less
