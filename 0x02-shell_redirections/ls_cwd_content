@@ -1,16 +1,32 @@
-total 96
-drwxr-xr-x  15 adetariku  staff  480 Jun 27 23:56 .
-drwxr-xr-x   8 adetariku  staff  256 Jun 27 20:48 ..
--rwxr-xr-x   1 adetariku  staff   35 Jun 27 21:40 0-hello_world
--rwxr-xr-x   1 adetariku  staff   27 Jun 27 22:40 1-confused_smiley
--rwxr-xr-x   1 adetariku  staff   35 Jun 27 22:22 2-hellofile
--rwxr-xr-x   1 adetariku  staff   39 Jun 27 22:18 3-twofiles
--rwxr-xr-x   1 adetariku  staff   35 Jun 27 22:44 4-lastlines
--rwxr-xr-x   1 adetariku  staff   35 Jun 27 22:46 5-firstlines
--rwxr-xr-x   1 adetariku  staff   40 Jun 27 22:58 6-third_line
--rwxr-xr-x   1 adetariku  staff  101 Jun 27 23:42 7-file
--rwxr-xr-x   1 adetariku  staff   35 Jun 27 23:56 8-cwd_state
--rw-r--r--   1 adetariku  staff   12 Jun 27 23:47 \*\\'"Best  School"\'\\*$\?\*\*\*\*\*:)
--rw-r--r--   1 adetariku  staff  744 Jun 27 22:58 iacta
--rw-r--r--   1 adetariku  staff    0 Jun 27 23:56 ls_cwd_content
--rw-r--r--   1 adetariku  staff  825 Jun 27 20:48 passwd
+total 116
+drwxr-xr-x 2 root root 4096 Jun 27 19:30 .
+drwxr-xr-x 6 root root  131 Jun 27 00:05 ..
+-rwxr-xr-x 1 root root   36 Jun 27 19:20 0-hello_world
+-rwxr-xr-x 1 root root   48 Jun 27 17:20 10-no_more_js
+-rwxr-xr-x 1 root root   50 Jun 27 17:20 11-directories
+-rwxr-xr-x 1 root root   32 Jun 27 17:20 12-newest_files
+-rwxr-xr-x 1 root root   27 Jun 27 17:20 13-unique
+-rwxr-xr-x 1 root root   39 Jun 27 17:32 14-findthatword
+-rwxr-xr-x 1 root root   41 Jun 27 17:20 15-countthatword
+-rwxr-xr-x 1 root root   44 Jun 27 17:20 16-whatsnext
+-rwxr-xr-x 1 root root   41 Jun 27 17:20 17-hidethisword
+-rwxr-xr-x 1 root root   54 Jun 27 18:37 18-letteronly
+-rwxr-xr-x 1 root root   37 Jun 27 18:51 19-AZ
+-rwxr-xr-x 1 root root   28 Jun 27 17:20 1-confused_smiley
+-rwxr-xr-x 1 root root   23 Jun 27 17:20 20-hiago
+-rwxr-xr-x 1 root root   16 Jun 27 17:20 21-reverse
+-rwxr-xr-x 1 root root   48 Jun 27 19:14 22-users_and_homes
+-rwxr-xr-x 1 root root   35 Jun 27 17:24 2-hellofile
+-rwxr-xr-x 1 root root   39 Jun 27 01:53 3-twofiles
+-rwxr-xr-x 1 root root   35 Jun 27 17:20 4-lastlines
+-rwxr-xr-x 1 root root   35 Jun 27 17:20 5-firstlines
+-rwxr-xr-x 1 root root   40 Jun 27 17:20 6-third_line
+-rwxr-xr-x 1 root root  101 Jun 27 17:20 7-file
+-rwxr-xr-x 1 root root   38 Jun 27 19:30 #8-cwd_state#
+-rwxr-xr-x 1 root root   35 Jun 27 17:20 8-cwd_state
+-rwxr-xr-x 1 root root   36 Jun 27 17:20 9-duplicate_last_line
+-rw-r--r-- 1 root root   12 Jun 27 17:20 \*\\'"Best  School"\'\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 root root  799 Jun 27 17:20 iacta
+-rw-r--r-- 1 root root  226 Jun 27 17:20 list
+-rw-r--r-- 1 root root    0 Jun 27 19:31 ls_cwd_content
+-rw-r--r-- 1 root root  825 Jun 27 17:24 passwd
