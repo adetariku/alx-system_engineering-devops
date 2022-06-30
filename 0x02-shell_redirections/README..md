@@ -20,8 +20,7 @@
 |-----------------------|--------------------------------------------------------------------------------------------|
 |9-duplicate_last_line  | Duplicates the last line of the file iacta                                                 |
 |-----------------------|--------------------------------------------------------------------------------------------|
-| 10-no_more_js          | Deletes all regular files from current directory and its subdirectories                   |
-|                       |that have file extension .js                                                                |
+| 10-no_more_js         | Deletes all regular files from current directory and its subdirectories that have file extension .js                  |
 |-----------------------|--------------------------------------------------------------------------------------------|
 |11-directories         | Counts all directories found in the current directoory and its subdirectories.             |
 |-----------------------|--------------------------------------------------------------------------------------------|
