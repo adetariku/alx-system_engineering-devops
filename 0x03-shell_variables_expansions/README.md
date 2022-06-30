@@ -1,8 +1,8 @@
 This file descibes the list of tasks implemented under this subsection(Shell variable expansion). Tasks are listed below.
 
 
-|     Script FileName   |        Description                  |
-|-----------------------|-------------------------------------|
+|     Script FileName                    |        Description                  |
+|----------------------------------------|-------------------------------------|
 |0-alias          | Creates alias to commands used in linux   |
 |1-hello_you      | prints 'hello user' message where user is the current user|
 |2-path           | Add path  to the path  environmetnt (this case /action is appended to the end of the path environment|
