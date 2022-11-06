@@ -1,1 +1,0 @@
-WPractice writing Bash Scripts
