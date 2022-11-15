@@ -1,0 +1,18 @@
+#!/usr/bin/env bash
+# a Bash script that displays numbers from 1 to 20 more strings
+condition=1
+while [ "$condition" -le 20 ]
+do
+	echo "$condition"
+	case $condition in
+		4)
+			echo "bad luck from China"
+			;;
+		9)
+			echo "bad luck from Japan"
+			;;
+		17)
+			echo "bad luck from Italy"
+	esac
+	((condition++))
+done
