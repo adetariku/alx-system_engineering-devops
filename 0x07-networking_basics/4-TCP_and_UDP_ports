@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+#displauy TCP and UDP ports and programs at those ports
+netstat -lp
